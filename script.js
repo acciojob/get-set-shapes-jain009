@@ -1,8 +1,8 @@
 class Rectangle {
-  constructor(width, height) {
+  
     this._width = width;
     this._height = height;
-  }
+  
 
   get width() {
     return this._width;
